@@ -5,10 +5,10 @@
 # Basics
 
 #### Link to the GitHub Repository for the Project
-[palette-picker]()
+[palette-picker](https://github.com/flevenson/pantoen)
 
 #### Link to the Deployed Application
-[heroku]()
+[heroku](https://pantoen.herokuapp.com/)
 
 #### Link to your annotated server file
 [annotated server file]()
